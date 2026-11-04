@@ -7,5 +7,5 @@ variable "project_name" {
 variable "location" {
   description = "Azure region"
   type        = string
-  default     = "westeurope"
+  default     = "eastus"
 }
