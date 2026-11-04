@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+tests/
+terraform/
+k8s/
+.git/
+README.md
